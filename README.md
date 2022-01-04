@@ -17,4 +17,4 @@
 ~~this is ana example of strike through text
 
     While True:
-		    print("True")
+		    print("True ...")
